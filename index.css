@@ -1,0 +1,11 @@
+.js-title {
+    color: #34495e
+}
+.form,
+.greetings {
+    display:none;
+}
+
+.showing {
+    display: block;
+}
